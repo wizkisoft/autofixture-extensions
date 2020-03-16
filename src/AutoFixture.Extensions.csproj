@@ -8,4 +8,8 @@
     <Company>Wizkisoft</Company>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoFixture" Version="4.11.0" />
+  </ItemGroup>
+
 </Project>
